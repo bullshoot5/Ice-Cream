@@ -1,4 +1,4 @@
-# Unit Test İCE Cream App
+# ICE Cream App
 
 # Kütüphaneler
 
