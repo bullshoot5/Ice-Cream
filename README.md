@@ -72,4 +72,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# Unit-Test-ce-Cream-App
